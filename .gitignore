@@ -1,0 +1,22 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+secrets*
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+.venv/
+# Personal working media and outputs are not part of this library.
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.zip
+templates/editor-workspace/projects/*/source/*
+templates/editor-workspace/projects/*/generated/*
+templates/editor-workspace/projects/*/exports/*
+!**/README.md
