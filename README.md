@@ -1,10 +1,18 @@
-# Enrique's AI Resources
+# Free resources for AI content creation
 
-Practical guides, prompts and templates to help you put AI to work in content creation.
+Learn a workflow. Get the files. Make it your own.
 
-I'm Enrique. I build AI systems for content creation and share how you can use them in your own work. This is a free resource library from my work and community: a place to find the useful files behind the things we build and teach.
+Practical guides, prompts and templates from Enrique and the community to help you plan, create and publish content with AI. Each collection focuses on something you can do, with instructions and files you can adapt to your own work.
 
 ## Start here
+
+**New here?** Read [how to use this library](START-HERE.md).
+
+**Following the AI editing tutorial?** Open [Teach AI your editing style](resources/ai-video-editing/README.md). The guide and its companion files are together there.
+
+**Looking for one specific file?** Browse the [resource index](RESOURCES.md).
+
+## What do you want to do?
 
 | What you want to do | Open this |
 | --- | --- |
@@ -13,23 +21,26 @@ I'm Enrique. I build AI systems for content creation and share how you can use t
 | Describe the editing style you want | [Style guide template](templates/editor-workspace/styles/my-style/style.md) |
 | Give useful feedback | [Feedback guide](resources/ai-video-editing/feedback.md) |
 | Plan image-to-video B-roll | [Animation prompt worksheet](resources/ai-video-editing/image-to-motion.md) |
-| Browse the full library | [Resource index](RESOURCES.md) |
 
 ## How to use the files
 
-1. Open a guide here, or use GitHub's **Code → Download ZIP** to download this library.
-2. Copy the editor-workspace template into a separate working folder.
-3. Add your own recording, references and assets. Fill in the brief and style guide.
-4. Open that working folder in your chosen AI agent and explicitly point it to the starting instructions.
-5. Make one short preview, review it and improve the instructions.
+1. Pick the result you want and open its guide.
+2. Check what you need, then copy the linked templates into your own working folder.
+3. Follow the steps on one small project. Review the result before expanding it.
 
-You do not need Git to read or download the guides.
+You can read everything here or use **Code → Download ZIP**. You do not need Git or community membership to access these resources.
 
 ## What is available today
 
 The first collection contains an editing playbook, prompt worksheets and an editable workspace template. These are starting instructions, not a one-click editor or an installed video-production toolchain. You still need to connect your chosen tools and check the results. Software or generation services may have their own costs.
 
-The goal is simple: watch an example, get the resources, and try it yourself. More resources will be added as they are prepared for sharing.
+The library will grow around four jobs: **Plan content, Create content, Publish content, and Build your system.** Only available resources appear in the index. A new video may introduce a collection or improve one that is already here.
+
+## How this connects to the bigger picture
+
+Enrique shares the examples and explains the decisions behind them. This library gives you resources to try the work yourself. The community is where we learn and build together. Nave is the broader content operating system being built around that work.
+
+Each guide should make sense on its own, whether you arrive from a video, a shared link or a search.
 
 ## Sharing improvements
 

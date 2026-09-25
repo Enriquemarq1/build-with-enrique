@@ -1,5 +1,19 @@
 # Teach AI your editing style
 
+[Library](../../RESOURCES.md) · [First time here?](../../START-HERE.md)
+
+**Goal:** give AI a clear editing process and creative direction, then review and improve a short preview.
+
+**For:** creators and business owners who want to guide their AI editor with more clarity.
+
+**Bring:** one short recording you can use, a style reference, and access to the editing/generation tools described in the [setup checklist](setup.md).
+
+**Included:** this guide, setup and feedback prompts, an animation worksheet, and a [workspace template](../../templates/editor-workspace/START-HERE.md).
+
+**Current version:** 0.1 — guides and templates. Documentation and links checked September 25, 2026. An end-to-end run of this portable starter has not yet been verified.
+
+## The idea
+
 Your AI editor needs two things: a way to do the job, and a clear idea of what you want the result to look and feel like.
 
 The **editing workflow** handles the recording, edit plan, assembly, preview and export. The **style guide** captures your creative direction: pacing, captions, visuals, movement and sound. An agent skill can load that guidance when you ask for the style.
