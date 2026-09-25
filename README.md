@@ -1,8 +1,10 @@
-# Free resources for AI content creation
+# Build with Enrique
 
-Learn a workflow. Get the files. Make it your own.
+Free guides, skills, and templates for creating with AI.
 
-Practical guides, prompts and templates from Enrique and the community to help you plan, create and publish content with AI. Each collection focuses on something you can do, with instructions and files you can adapt to your own work.
+I'm Enrique. I build AI systems for content creation and share how you can use them in your own work. This is where you'll find the guides and files behind what I teach, with contributions from the community as we build together.
+
+Pick something you want to make, get the files, and try it yourself.
 
 ## Start here
 
@@ -12,7 +14,7 @@ Practical guides, prompts and templates from Enrique and the community to help y
 
 **Looking for one specific file?** Browse the [resource index](RESOURCES.md).
 
-## What do you want to do?
+## Get the files
 
 | What you want to do | Open this |
 | --- | --- |
@@ -34,16 +36,14 @@ You can read everything here or use **Code → Download ZIP**. You do not need G
 
 The first collection contains an editing playbook, prompt worksheets and an editable workspace template. These are starting instructions, not a one-click editor or an installed video-production toolchain. You still need to connect your chosen tools and check the results. Software or generation services may have their own costs.
 
-The library will grow around four jobs: **Plan content, Create content, Publish content, and Build your system.** Only available resources appear in the index. A new video may introduce a collection or improve one that is already here.
+New collections will be added as I build and share useful things. Each one brings the steps and relevant files together in one place.
 
-## How this connects to the bigger picture
+## Build along with me
 
-Enrique shares the examples and explains the decisions behind them. This library gives you resources to try the work yourself. The community is where we learn and build together. Nave is the broader content operating system being built around that work.
+In my videos, I show what I'm building and explain the decisions behind it. Here, you can get the resources and adapt them to your own work.
 
 Each guide should make sense on its own, whether you arrive from a video, a shared link or a search.
 
 ## Sharing improvements
 
 See [Contributing](CONTRIBUTING.md). Share a useful correction or a small example you have permission to share. Keep personal media, credentials and client information out of public issues and pull requests.
-
-This library contains selected educational resources. It is not the full Nave Content OS or a copy of a private business workspace.

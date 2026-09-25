@@ -1,12 +1,10 @@
-# Find a resource
+# Collections
 
 Start with what you want to accomplish. Everything linked below is available now. Tool access and provider costs are separate.
 
 New to the library? [Start here](START-HERE.md).
 
-## Create content
-
-### Teach AI your editing style
+## Teach AI your editing style
 
 Organize your editor, describe the style you want, and improve a first preview with clear feedback.
 
@@ -25,8 +23,4 @@ Use these direct links when you only need part of the workflow:
 | [Style guide](templates/editor-workspace/styles/my-style/style.md) | Define the look, pacing, movement and sound | Fill-in template |
 | [Video feedback](templates/editor-workspace/projects/first-video/feedback.md) | Record corrections and decisions worth keeping | Fill-in template |
 
-## As the library grows
-
-Collections will fit under **Plan content, Create content, Publish content, or Build your system**. Sections are added when a useful resource is ready. You can find a workflow by its purpose even when the tools behind it change.
-
-New videos will link directly to the relevant collection. Returning viewers can keep using the same guide as it improves.
+New videos link directly to the relevant collection. Returning viewers can keep using the same guide as it improves. More collections will appear here when their resources are ready.

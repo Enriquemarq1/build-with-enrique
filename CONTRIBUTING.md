@@ -20,6 +20,6 @@ Build around one useful outcome, such as editing a video in a chosen style. Give
 
 Put a collection's guide and supporting documents in `resources/<outcome>/`. Keep reusable fill-in files in `templates/<template-name>/` and link to them. Reuse an existing template when it already does the job.
 
-Add the collection to `RESOURCES.md` under its main purpose: Plan content, Create content, Publish content, or Build your system. Add video links when published; a guide must also work without watching the video. Do not add empty category folders or duplicate a collection for every new video.
+Add the collection to `RESOURCES.md` with a concrete title describing what someone can do. Keep one simple list until the library is large enough to need categories. Add video links when published; a guide must also work without watching the video. Do not add empty category folders or duplicate a collection for every new video.
 
 For a skill or runnable tool, include installation, required permissions, supported setup and a small example someone can verify. Label untested instructions clearly. Review any third-party redistribution rights before including files; public availability alone does not establish permission to redistribute them.

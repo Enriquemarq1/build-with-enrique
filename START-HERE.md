@@ -1,4 +1,4 @@
-# Start with one result
+# Start here — Build with Enrique
 
 This library helps you put AI to work in content creation. You can read the guides for free and copy the templates into your own projects.
 
